@@ -31,6 +31,7 @@ make product suggestion when customers browse on product A. In this example, I f
 Using Association rule, I can obtain product bundles that are frequently purchased together.
 #### Example of an useful rule
 ![image](https://user-images.githubusercontent.com/76879882/111888508-2c440400-89ab-11eb-9081-3c5aae97fa23.png)
+
 Take this above rule as an example, product "6c3effec7c8ddba466d4f03f982c7aa3" and product "0aabfb375647d9738ad0f7b4ea3653b1" are frequently purchased together. (5 times out of 1000 transactions). Specifically, 83.3% of people that purchase product "5b8a5a9417210b1b84b67b9a7aefb935" also purchase "0aabfb375647d9738ad0f7b4ea3653b1". Hence, when customers browse on product "5b8a5a9417210b1b84b67b9a7aefb935", Olist can display products "0aabfb375647d9738ad0f7b4ea3653b1" as well. 
 
 
